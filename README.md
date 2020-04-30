@@ -6,7 +6,9 @@
   <li> Nachos </li>
   <li> Coldcuts </li>
   </ol>
-#This is a table of how much I want to spend today 
-|Meats|Cheese etc|
-|-----|----------|
-|$5.00|$2.50     |
+|Food| Food's Price|
+|:---|:------------|
+|Cheese| $2.50|
+|Burger| $3.00|
+|Nachos| $4.00|
+|Coldcuts| $2.50|
