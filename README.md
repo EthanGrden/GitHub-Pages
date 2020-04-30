@@ -1,6 +1,6 @@
 # Weekly Pricing
 ## This is a list of my weekly pricing
-**Asterisks** This is some of the awesome food im going to buy!! **Asterisks**
+**This is some of the awesome food im going to buy!! ** This is some of the awesome food im going to buy!!
 <ol>
   <li> Cheese </li>
   <li> Burger </li>
